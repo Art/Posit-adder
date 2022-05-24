@@ -1,2 +1,2 @@
-# Posit-adder
+# diabatic Posit-adder
 Posit arithmetic
